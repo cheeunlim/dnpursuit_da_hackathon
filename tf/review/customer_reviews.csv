@@ -199,53 +199,53 @@ customer_review_id,customer_id,location_id,review_datetime,review_text,social_me
 97,1097,5010,2024-12-08 10:06:13,"I absolutely love my Android Garden 2019 Tee! The design is so unique and eye-catching, I always get compliments when I wear it. The fabric is really soft and comfortable, perfect for everyday wear. It's held up great after multiple washes too, the print hasn't faded at all. Definitely one of my favorite t-shirts and a must-have for any Android enthusiast with a sense of style. Highly recommend!",X,@XUser_1097_728,38578,4
 185,1185,5010,2024-11-10 21:15:48,"This collar is fantastic! I got the Google Medium Pet Collar in Red/Yellow for my beagle, Buster, and it's perfect. The colors are vibrant and really pop against his fur. It seems really durable and well-made, especially the buckle. Plus, it's super easy to adjust for a comfortable fit. Buster doesn't seem bothered by it at all, and I feel much better about him being easily identifiable with such a bright and recognizable collar. Great purchase!",X,@XUser_1185_472,31194,4
 172,1172,5010,2025-01-23 08:31:18,"I'm leaving a review after purchasing a Nest Hub and using it for about 2 weeks. It's definitely very convenient to control home lighting or heating with voice commands as it integrates well with Google Home services. I find it especially useful for looking at recipes or listening to music while cooking. The screen brightness and picture quality are also decent, which is satisfactory. However, it's disappointing that it doesn't support as many apps as I expected. Especially, the OTT service app I frequently use is not available, so there's the hassle of having to mirror my smartphone. Also, the voice recognition rate is not perfect, so it sometimes performs strange commands. Overall, I'm satisfied, but I think it would be an even more perfect smart display if software improvements were made.",YouTube,@YouTubeUser_1172_159,25248,5
-201,9823,5004,2026-02-06 19:54:44 UTC,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0000,39759,4
-202,10959,5003,2025-11-05 23:37:48 UTC,"The delivery was too late, and the product packaging was also a mess.",Facebook,@DummyUser_0001,33560,1
-203,8858,5004,2026-03-22 23:40:16 UTC,The product quality is very poor. I definitely do not recommend it.,X,@DummyUser_0002,47751,4
-204,7272,5001,2026-01-08 11:36:47 UTC,The color or design is too different from the photo. I feel deceived.,Blog,@DummyUser_0003,44427,1
-205,4264,5010,2025-10-13 00:33:56 UTC,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0004,42696,2
-206,5330,5010,2025-11-07 20:38:24 UTC,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0005,39159,2
-207,5424,5007,2025-12-21 13:57:04 UTC,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0006,33472,2
-208,9943,5004,2025-12-19 10:06:18 UTC,The customer service response was unsatisfactory. It took too long to resolve the issue.,Facebook,@DummyUser_0007,45784,1
-209,10008,5007,2025-11-01 12:37:45 UTC,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0008,26861,4
-210,10877,5001,2025-11-26 16:12:43 UTC,It was much more disappointing than expected. It was a waste of money.,Instagram,@DummyUser_0009,40775,2
-211,2780,5003,2026-02-01 04:01:36 UTC,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0010,37460,2
-212,6418,5002,2026-02-16 04:26:13 UTC,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0011,46361,2
-213,8686,5005,2025-12-30 13:34:13 UTC,"The usage is too complicated, and the manual is unfriendly.",X,@DummyUser_0012,41674,2
-214,8871,5004,2025-12-20 00:31:16 UTC,It was much more disappointing than expected. It was a waste of money.,Blog,@DummyUser_0013,46590,1
-215,8887,5008,2026-03-28 17:43:37 UTC,"The delivery was too late, and the product packaging was also a mess.",Instagram,@DummyUser_0014,40378,2
-216,8206,5008,2025-12-04 07:56:52 UTC,This quality for this price is unacceptable. Worst purchase experience.,X,@DummyUser_0015,47388,2
-217,5629,5008,2025-12-31 15:47:26 UTC,The color or design is too different from the photo. I feel deceived.,Facebook,@DummyUser_0016,23336,2
-218,2057,5007,2025-12-01 21:23:08 UTC,The function is not working properly. I want a refund.,X,@DummyUser_0017,26200,2
-219,6355,5009,2025-12-17 10:45:24 UTC,The function is not working properly. I want a refund.,Blog,@DummyUser_0018,22726,2
-220,10842,5007,2026-03-18 10:02:59 UTC,I think it would have been much better to buy a similar product.,X,@DummyUser_0019,21804,1
-221,5516,5006,2026-02-19 06:56:33 UTC,This quality for this price is unacceptable. Worst purchase experience.,X,@DummyUser_0020,34759,1
-222,10769,5005,2025-12-19 16:09:29 UTC,The color or design is too different from the photo. I feel deceived.,Facebook,@DummyUser_0021,20419,1
-223,8496,5009,2025-10-05 14:51:36 UTC,This quality for this price is unacceptable. Worst purchase experience.,Blog,@DummyUser_0022,34671,1
-224,10920,5009,2025-10-27 06:14:25 UTC,I think it would have been much better to buy a similar product.,Instagram,@DummyUser_0023,39264,1
-225,10003,5004,2025-10-07 13:20:38 UTC,The customer service response was unsatisfactory. It took too long to resolve the issue.,Instagram,@DummyUser_0024,26682,1
-226,8533,5004,2025-11-26 17:11:32 UTC,The function is not working properly. I want a refund.,Facebook,@DummyUser_0025,43844,2
-227,10387,5001,2025-11-12 15:01:27 UTC,The color or design is too different from the photo. I feel deceived.,X,@DummyUser_0026,42160,2
-228,5480,5010,2026-01-02 09:48:08 UTC,"The delivery was too late, and the product packaging was also a mess.",Blog,@DummyUser_0027,44999,2
-229,5957,5003,2026-01-26 21:35:03 UTC,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0028,48890,2
-230,6436,5006,2025-12-14 10:32:20 UTC,The function is not working properly. I want a refund.,Facebook,@DummyUser_0029,30684,2
-231,1195,5003,2026-01-18 15:20:24 UTC,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0030,39573,1
-232,2334,5009,2025-12-11 23:24:59 UTC,The customer service response was unsatisfactory. It took too long to resolve the issue.,Facebook,@DummyUser_0031,23485,2
-233,5919,5004,2026-03-17 12:03:51 UTC,I think it would have been much better to buy a similar product.,Blog,@DummyUser_0032,46965,1
-234,10669,5010,2025-10-12 22:03:30 UTC,I think it would have been much better to buy a similar product.,Blog,@DummyUser_0033,46486,1
-235,6540,5001,2026-02-05 17:42:55 UTC,"The delivery was too late, and the product packaging was also a mess.",Instagram,@DummyUser_0034,49946,1
-236,10500,5001,2026-01-22 16:37:47 UTC,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0035,45426,2
-237,10661,5006,2026-02-15 09:31:42 UTC,It was much more disappointing than expected. It was a waste of money.,Instagram,@DummyUser_0036,39064,1
-238,5975,5006,2025-12-24 06:54:33 UTC,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0037,24257,1
-239,4462,5004,2025-12-10 05:27:47 UTC,This quality for this price is unacceptable. Worst purchase experience.,Facebook,@DummyUser_0038,43682,1
-240,5744,5001,2025-10-05 09:15:46 UTC,It broke down quickly. The durability is very poor.,X,@DummyUser_0039,35369,2
-241,3407,5003,2026-03-04 09:38:24 UTC,The customer service response was unsatisfactory. It took too long to resolve the issue.,Instagram,@DummyUser_0040,28332,2
-242,4533,5005,2025-12-10 23:42:25 UTC,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0041,26200,4
-243,6531,5010,2025-12-14 04:28:47 UTC,The function is not working properly. I want a refund.,Facebook,@DummyUser_0042,24766,2
-244,9141,5003,2025-10-02 06:05:38 UTC,The color or design is too different from the photo. I feel deceived.,Facebook,@DummyUser_0043,36735,2
-245,5327,5002,2025-10-22 02:27:37 UTC,It was much more disappointing than expected. It was a waste of money.,Instagram,@DummyUser_0044,49455,2
-246,4606,5010,2025-10-13 17:37:41 UTC,The function is not working properly. I want a refund.,X,@DummyUser_0045,37268,1
-247,4764,5008,2025-10-17 12:13:55 UTC,"The delivery was too late, and the product packaging was also a mess.",Instagram,@DummyUser_0046,33923,2
-248,8710,5001,2025-11-06 11:39:10 UTC,I think it would have been much better to buy a similar product.,Facebook,@DummyUser_0047,30563,1
-249,8857,5007,2026-03-16 22:18:34 UTC,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0048,36372,4
-250,7170,5004,2025-10-14 12:55:52 UTC,It broke down quickly. The durability is very poor.,Blog,@DummyUser_0049,22810,2
+201,9823,5004,2026-02-06 19:54:44,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0000,39759,4
+202,10959,5003,2025-11-05 23:37:48,"The delivery was too late, and the product packaging was also a mess.",Facebook,@DummyUser_0001,33560,1
+203,8858,5004,2026-03-22 23:40:16,The product quality is very poor. I definitely do not recommend it.,X,@DummyUser_0002,47751,4
+204,7272,5001,2026-01-08 11:36:47,The color or design is too different from the photo. I feel deceived.,Blog,@DummyUser_0003,44427,1
+205,4264,5010,2025-10-13 00:33:56,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0004,42696,2
+206,5330,5010,2025-11-07 20:38:24,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0005,39159,2
+207,5424,5007,2025-12-21 13:57:04,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0006,33472,2
+208,9943,5004,2025-12-19 10:06:18,The customer service response was unsatisfactory. It took too long to resolve the issue.,Facebook,@DummyUser_0007,45784,1
+209,10008,5007,2025-11-01 12:37:45,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0008,26861,4
+210,10877,5001,2025-11-26 16:12:43,It was much more disappointing than expected. It was a waste of money.,Instagram,@DummyUser_0009,40775,2
+211,2780,5003,2026-02-01 04:01:36,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0010,37460,2
+212,6418,5002,2026-02-16 04:26:13,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0011,46361,2
+213,8686,5005,2025-12-30 13:34:13,"The usage is too complicated, and the manual is unfriendly.",X,@DummyUser_0012,41674,2
+214,8871,5004,2025-12-20 00:31:16,It was much more disappointing than expected. It was a waste of money.,Blog,@DummyUser_0013,46590,1
+215,8887,5008,2026-03-28 17:43:37,"The delivery was too late, and the product packaging was also a mess.",Instagram,@DummyUser_0014,40378,2
+216,8206,5008,2025-12-04 07:56:52,This quality for this price is unacceptable. Worst purchase experience.,X,@DummyUser_0015,47388,2
+217,5629,5008,2025-12-31 15:47:26,The color or design is too different from the photo. I feel deceived.,Facebook,@DummyUser_0016,23336,2
+218,2057,5007,2025-12-01 21:23:08,The function is not working properly. I want a refund.,X,@DummyUser_0017,26200,2
+219,6355,5009,2025-12-17 10:45:24,The function is not working properly. I want a refund.,Blog,@DummyUser_0018,22726,2
+220,10842,5007,2026-03-18 10:02:59,I think it would have been much better to buy a similar product.,X,@DummyUser_0019,21804,1
+221,5516,5006,2026-02-19 06:56:33,This quality for this price is unacceptable. Worst purchase experience.,X,@DummyUser_0020,34759,1
+222,10769,5005,2025-12-19 16:09:29,The color or design is too different from the photo. I feel deceived.,Facebook,@DummyUser_0021,20419,1
+223,8496,5009,2025-10-05 14:51:36,This quality for this price is unacceptable. Worst purchase experience.,Blog,@DummyUser_0022,34671,1
+224,10920,5009,2025-10-27 06:14:25,I think it would have been much better to buy a similar product.,Instagram,@DummyUser_0023,39264,1
+225,10003,5004,2025-10-07 13:20:38,The customer service response was unsatisfactory. It took too long to resolve the issue.,Instagram,@DummyUser_0024,26682,1
+226,8533,5004,2025-11-26 17:11:32,The function is not working properly. I want a refund.,Facebook,@DummyUser_0025,43844,2
+227,10387,5001,2025-11-12 15:01:27,The color or design is too different from the photo. I feel deceived.,X,@DummyUser_0026,42160,2
+228,5480,5010,2026-01-02 09:48:08,"The delivery was too late, and the product packaging was also a mess.",Blog,@DummyUser_0027,44999,2
+229,5957,5003,2026-01-26 21:35:03,This quality for this price is unacceptable. Worst purchase experience.,Instagram,@DummyUser_0028,48890,2
+230,6436,5006,2025-12-14 10:32:20,The function is not working properly. I want a refund.,Facebook,@DummyUser_0029,30684,2
+231,1195,5003,2026-01-18 15:20:24,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0030,39573,1
+232,2334,5009,2025-12-11 23:24:59,The customer service response was unsatisfactory. It took too long to resolve the issue.,Facebook,@DummyUser_0031,23485,2
+233,5919,5004,2026-03-17 12:03:51,I think it would have been much better to buy a similar product.,Blog,@DummyUser_0032,46965,1
+234,10669,5010,2025-10-12 22:03:30,I think it would have been much better to buy a similar product.,Blog,@DummyUser_0033,46486,1
+235,6540,5001,2026-02-05 17:42:55,"The delivery was too late, and the product packaging was also a mess.",Instagram,@DummyUser_0034,49946,1
+236,10500,5001,2026-01-22 16:37:47,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0035,45426,2
+237,10661,5006,2026-02-15 09:31:42,It was much more disappointing than expected. It was a waste of money.,Instagram,@DummyUser_0036,39064,1
+238,5975,5006,2025-12-24 06:54:33,"The usage is too complicated, and the manual is unfriendly.",Blog,@DummyUser_0037,24257,1
+239,4462,5004,2025-12-10 05:27:47,This quality for this price is unacceptable. Worst purchase experience.,Facebook,@DummyUser_0038,43682,1
+240,5744,5001,2025-10-05 09:15:46,It broke down quickly. The durability is very poor.,X,@DummyUser_0039,35369,2
+241,3407,5003,2026-03-04 09:38:24,The customer service response was unsatisfactory. It took too long to resolve the issue.,Instagram,@DummyUser_0040,28332,2
+242,4533,5005,2025-12-10 23:42:25,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0041,26200,4
+243,6531,5010,2025-12-14 04:28:47,The function is not working properly. I want a refund.,Facebook,@DummyUser_0042,24766,2
+244,9141,5003,2025-10-02 06:05:38,The color or design is too different from the photo. I feel deceived.,Facebook,@DummyUser_0043,36735,2
+245,5327,5002,2025-10-22 02:27:37,It was much more disappointing than expected. It was a waste of money.,Instagram,@DummyUser_0044,49455,2
+246,4606,5010,2025-10-13 17:37:41,The function is not working properly. I want a refund.,X,@DummyUser_0045,37268,1
+247,4764,5008,2025-10-17 12:13:55,"The delivery was too late, and the product packaging was also a mess.",Instagram,@DummyUser_0046,33923,2
+248,8710,5001,2025-11-06 11:39:10,I think it would have been much better to buy a similar product.,Facebook,@DummyUser_0047,30563,1
+249,8857,5007,2026-03-16 22:18:34,The product quality is very poor. I definitely do not recommend it.,Instagram,@DummyUser_0048,36372,4
+250,7170,5004,2025-10-14 12:55:52,It broke down quickly. The durability is very poor.,Blog,@DummyUser_0049,22810,2
