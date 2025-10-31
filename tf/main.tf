@@ -31,8 +31,7 @@ resource "google_storage_bucket" "cloud-bucket" {
   name                        = "${var.gcp_project_id}-bucket"
   location                    = var.gcp_region
   project                     = var.gcp_project_id
-  force_destroy               = true # Optional: Allows deletion of non-empty buckets during terraform destroy
-  public_access_prevention    = "enforced"
+  force_destroy               = true
   uniform_bucket_level_access = true
 }
 
@@ -67,11 +66,11 @@ resource "google_project_iam_member" "aiplatform_user" {
   ]
 }
 
-# resource "google_storage_bucket_iam_member" "public_access" {
-#   bucket = google_storage_bucket.cloud-bucket.name
-#   role   = "roles/storage.objectViewer"
-#   member = "allUsers"
-# }
+resource "google_storage_bucket_iam_member" "public_access" {
+  bucket = google_storage_bucket.cloud-bucket.name
+  role   = "roles/storage.objectViewer"
+  member = "allUsers"
+}
 
 # ------------------------------------------------------------------------------
 # Service Account for BigQuery Continuous Query
