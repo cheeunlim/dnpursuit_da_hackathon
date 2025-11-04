@@ -73,6 +73,23 @@ resource "google_storage_bucket_iam_member" "public_access" {
 }
 
 # ------------------------------------------------------------------------------
+# Enable Audit Logs for all services
+# ------------------------------------------------------------------------------
+resource "google_project_iam_audit_config" "all-services" {
+  project = "${var.gcp_project_id}"
+  service = "allServices"
+  audit_log_config {
+    log_type = "ADMIN_READ"
+  }
+  audit_log_config {
+    log_type = "DATA_READ"
+  }
+  audit_log_config {
+    log_type = "DATA_WRITE"
+  }
+}
+
+# ------------------------------------------------------------------------------
 # Service Account for BigQuery Continuous Query
 # ------------------------------------------------------------------------------
 resource "google_service_account" "bq_continuous_query_sa" {
